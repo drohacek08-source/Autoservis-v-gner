@@ -31,7 +31,7 @@ body{background:var(--bg);color:var(--text);font-family:'Inter',sans-serif;font-
 .hero-lines svg{width:100%;height:100%}
 .hero-content{position:relative;z-index:1;width:100%}
 .hero-tag{display:inline-flex;align-items:center;gap:.5rem;background:var(--blue-glow);border:1px solid rgba(37,99,235,0.3);padding:.3rem .85rem;font-size:.72rem;letter-spacing:.14em;text-transform:uppercase;color:var(--blue);font-weight:500;margin-bottom:2rem;opacity:0;animation:fadeup .5s .1s forwards}
-h1{font-family:'Rajdhani',sans-serif;font-weight:700;font-size:clamp(4rem,12vw,10rem);line-height:.92;letter-spacing:.01em;color:var(--text);opacity:0;animation:fadeup .5s .2s forwards}
+h1{font-family:'Rajdhani',sans-serif;font-weight:700;font-size:clamp(2.8rem,7vw,6rem);line-height:.92;letter-spacing:.01em;color:var(--text);opacity:0;animation:fadeup .5s .2s forwards}
 h1 .accent{color:var(--blue)}
 .hero-line{width:52px;height:3px;background:var(--blue);margin:1.8rem 0;opacity:0;animation:fadeup .5s .3s forwards}
 .hero-p{font-size:1rem;color:var(--sub);max-width:560px;line-height:1.75;opacity:0;animation:fadeup .5s .38s forwards}
